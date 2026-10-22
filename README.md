@@ -4,13 +4,11 @@
 
 ## 💻 Sobre mí:
 * 🔭 Actualmente estoy trabajando en Mettis AI
-* 🌱 Estoy aprendiendo ...
-* 💬 Pregúntame sobre ...
-* ⚡ Dato curioso: ...
+* 🌱 Estoy aprendiendo Data Analytics
 
 ## 🛠️ Mis Habilidades (Skills):
 * **Lenguajes:** HTML, CSS, JavaScript, Python
-* **Herramientas:** Git, GitHub, VS Code
+* **Herramientas:** Git, GitHub, VS Code. Power BI
 
 ## 📫 Cómo contactarme:
 * LinkedIn: www.linkedin.com/in/miguel-jara-arroyo-b77379264
